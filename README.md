@@ -1,2 +1,4 @@
 # Random-Pet
-Repo for training with api rest 
+
+
+Repo para entrenar con APIs en react con alumnos de Henry!
